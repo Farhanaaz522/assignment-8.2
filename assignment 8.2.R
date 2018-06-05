@@ -11,8 +11,6 @@
 #4. create a graph displaying the accuracy of all models
 
 #Answers
-#a),b),c),d)
-#using slr dataset
 #reading the dataset and viewing
 slr <- read.csv("D:/user/farha/slr.csv")
 slr1<- slr
